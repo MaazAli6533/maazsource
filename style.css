@@ -1,18 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-
-nav{
-    height: 59px;
+h1{
     background-color: black;
     color: white;
-}
-ul{
-    display: flex;
-    list-style: none;
-}
-
-li{
-    margin: 20px;
 }
